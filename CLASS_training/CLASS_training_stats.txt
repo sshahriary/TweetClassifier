@@ -1,0 +1,5 @@
+news tweet count: 2722
+sports tweet count:2030
+music tweet count:2435
+entertainment tweet count:2245
+science tweet count:2588

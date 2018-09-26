@@ -1,0 +1,5 @@
+news tweet count: 21
+sports tweet count:21
+music tweet count:21
+entertainment tweet count:13
+science tweet count:17
